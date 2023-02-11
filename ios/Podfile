@@ -5,6 +5,5 @@ target 'Runner' do
  
   #use_frameworks!
   pod 'Fabric'
-  pod 'Alamofire', '4.6.0'
 
 end
