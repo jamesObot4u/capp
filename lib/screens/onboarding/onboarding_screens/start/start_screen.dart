@@ -66,8 +66,7 @@ class Start extends StatelessWidget {
                             style: Theme.of(context)
                                 .textTheme
                                 .headline2!
-                                .copyWith(
-                                    color: Colors.white, fontFamily: 'FTL')),
+                                .copyWith(color: Colors.white, fontFamily: '')),
                         const SizedBox(height: 20),
                         Text(
                           'Dating in layover can be fun, and you should have the best time possible with your match. With layover dating app, you can browse other profiles and find matches that are within you in airport!',
@@ -78,7 +77,7 @@ class Start extends StatelessWidget {
                                   height: 1.3,
                                   fontSize: 18,
                                   color: Colors.white,
-                                  fontFamily: 'FTL'),
+                                  fontFamily: ''),
                           textAlign: TextAlign.center,
                         ),
                       ],
