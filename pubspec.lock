@@ -127,13 +127,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
-  duration_button:
-    dependency: "direct main"
-    description:
-      name: duration_button
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.0"
   email_auth:
     dependency: "direct main"
     description:
@@ -504,13 +497,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "6.0.5"
-  shared_preferences:
-    dependency: "direct main"
-    description:
-      name: shared_preferences
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.4.3"
   sky_engine:
     dependency: transitive
     description: flutter
